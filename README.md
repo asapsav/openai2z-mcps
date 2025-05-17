@@ -9,7 +9,7 @@ Data-sources useful for OpenAI to Z challenge wrapped into MCP servers and avail
 
 ## TODOs
 
-### ✅ Satellite imagery and map sources:
+### 🏗️ Satellite imagery and map sources:
 - [ ] **Google Earth Engine (GEE):** one‑click access to Sentinel‑1/‑2, NICFI, GEDI, SRTM, and Landsat.
 - [ ] **European Space Agency:** a surplus of incredible open-source data collected over the last decades.
 - [ ] **NASA:** The NASA catalogue is open to use and home to 25,000+ data sets.
@@ -17,10 +17,10 @@ Data-sources useful for OpenAI to Z challenge wrapped into MCP servers and avail
 - [ ] **Sentinel‑2 optical imagery:** 10 m, 13-band scenes (good for vegetation scars).
 - [ ] **AWS CLI:** covers swaths of western Amazon.
 
-### ✅ Archaeological point data:
+### 🏗️ Archaeological point data:
 - [ ] **The Archeo Blog:** shares sampled data already drawn from the Amazonian region.
 
-### ✅ Academic references with links:
+### 🏗️ Academic references with links:
 - [ ] Clasby, Ryan, and Jason Nesbitt (2021) — *The Archaeology of the Upper Amazon*  
   https://books.google.com/books?hl=en&lr=&id=B4DSEAAAQBAJ&oi=fnd&pg=PP1&dq=amazon+lidar+archaeology&ots=oK0FItet27&sig=oFAGRog0cFkX9MooeDiaoRvVWzs#v=onepage&q=amazon%20lidar%20archaeology&f=false
 - [ ] Cohen, Klassen & Evans (2020) — *Ethics in Archaeological Lidar*  
