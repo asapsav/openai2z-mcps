@@ -1,6 +1,15 @@
 # openai2z-mcps
 Data-sources useful for OpenAI to Z challenge wrapped into MCP servers and available for all.
 
+## What is this?
+
+It is interesting to use challeges like https://scrollprize.org or open ended like [this](https://openai.com/openai-to-z-challenge/) as a test bed or eval for general-purpose scientific discovery agent. Assuming future ASI will look smth like a small reasoning model with a trillion token context length, this repo provides the "trillon token" context length part of that agent and aims to be a center source of data for all participants of [openai-to-z-challenge](https://openai.com/openai-to-z-challenge/). Slighly against the bitter lesson, but in respect for efficiency this this challenge, it would be good to package each dataset with tools that are specifically useful to work with the dataset (like a lidar dataset can come with comunity selected best CV model fitting pipelines, or object type db can come with elastic search, and etc.). To make it stantardised and simple ot use, we guess thats where MCP comes in handly thus we provide every possible dataset as an MCP server.
+
+The inspiration is to leave creative ideas for prompts / scafolding / choice of models for solving openai.com/openai-to-z-challenge for competing participants, but make data available for all, and in the most efficient manner.
+
+## Contribute a dataset
+1. [Building MCP with LLMs](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
+
 ## References
 1. [Starter PDF](https://cdn.openai.com/pdf/a9455c3b-c6e1-49cf-a5cc-c40ed07c0b9f/starter-pack-openai-to-z-challenge.pdf)
 2. [OpenAI blog-post](https://openai.com/openai-to-z-challenge/)
