@@ -29,7 +29,7 @@ The inspiration is to leave creative ideas for custom tools / prompts / scafoldi
 ### 🏗️ Archaeological point data:
 - [ ] **The Archeo Blog:** shares sampled data already drawn from the Amazonian region.
 
-### 🏗️ Academic references with links:
+### 🏗️ Package academic references with a call to [Elicit](https://elicit.com):
 - [ ] Clasby, Ryan, and Jason Nesbitt (2021) — *The Archaeology of the Upper Amazon*  
   https://books.google.com/books?hl=en&lr=&id=B4DSEAAAQBAJ&oi=fnd&pg=PP1&dq=amazon+lidar+archaeology&ots=oK0FItet27&sig=oFAGRog0cFkX9MooeDiaoRvVWzs#v=onepage&q=amazon%20lidar%20archaeology&f=false
 - [ ] Cohen, Klassen & Evans (2020) — *Ethics in Archaeological Lidar*  
