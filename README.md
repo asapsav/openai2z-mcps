@@ -59,4 +59,28 @@ The inspiration is to leave creative ideas for custom tools / prompts / scafoldi
 
 ### Other
 - [ ] https://www.theeartharchive.com
+- [ ] https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1644
+This dataset provides the complete catalog of point cloud data collected during LiDAR surveys over selected forest research sites across the Amazon rainforest in Brazil between 2008 and 2018 for the Sustainable Landscapes Brazil Project
+
+- [ ] https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1515
+This data set provides LiDAR point clouds and digital terrain models (DTM) from surveys over the K34 tower site in the Cuieiras Biological Reserve, over forest inventory plots in the Adolpho Ducke Forest Reserve, and over sites of the Biological Dynamics of Forest Fragments Project (BDFFP) in Rio Preto da Eva municipality near Manaus, Amazonas, Brazil during June 2008
+
+- [ ] https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1302
+This data set provides raw LiDAR point cloud data and derived Digital Terrain Models (DTMs) for five forested areas in the municipality of Paragominas, Para, Brazil, for the years 2012, 2013, and 2014. Data are included for two areas in Paragominas for 2013 and 2014
+
+- [ ] https://zenodo.org/records/7689909
+This collection features:
+LiDAR transects across the Brazilian Amazon, particularly Acre and Rondônia states,
+Combination of randomly distributed transects over forest and secondary forest areas,
+Coverage of the deforestation arch,
+Transects overlapping field plots for model calibration,
+Each transect covering a minimum of 375 hectares (12.5 km x 300 m),
+Data collected using a Trimble Harrier 68i airborne sensor with high precision (horizontal accuracy <1m, vertical accuracy <0.5m)
+
+- [ ] https://www.paisagenslidar.cnptia.embrapa.br/
+this website offers an interactive map displaying Lidar and Forest Inventory data for Brazilian states. Users can select states to view geographically referenced information, supporting research on sustainable landscapes and forest ecosystems. The platform allows filtering by data type for focused analysis within Brazil.
+
+- [ ] Derived products from the EBA LiDAR data
+Canopy height models derived from LiDAR data collected across the Brazilian Amazon
+https://zenodo.org/records/7104044
 
