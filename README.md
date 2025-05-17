@@ -53,7 +53,10 @@ The inspiration is to leave creative ideas for prompts / scafolding / choice of 
 - [ ] Stenborg et al. (2018) — *Contours of the Past*  
   https://www.tandfonline.com/doi/full/10.1080/00934690.2017.1417198
 
-### ✅ Online Research Repositories:
+### 🏗️ Online Research Repositories:
 - [ ] **Internet Archive:** library of text, audio, and video materials.
 - [ ] **Library of Congress expedition books:** public-domain sources with detailed river‑mile diaries and Indigenous village locations.
+
+### Other
+- [ ] https://www.theeartharchive.com
 
